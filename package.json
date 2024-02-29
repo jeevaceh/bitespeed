@@ -1,0 +1,24 @@
+{
+  "name": "bitespeed",
+  "version": "1.0.0",
+  "description": "bitespeed task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "sequelizeORM",
+    "MySQL"
+  ],
+  "author": "jeeva K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "install": "^0.13.0",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1",
+    "sqlite3": "^5.1.7"
+  }
+}
