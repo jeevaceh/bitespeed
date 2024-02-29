@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password":"root",
-    "database": "bite_speed",
-    "host": "127.0.0.1",
+    "username": "bitespeed_user_1",
+    "password":"ROOT@123",
+    "database": "bitespeed_user_1",
+    "host": "db4free.net",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password":"root",
-    "database": "bite_speed",
-    "host": "127.0.0.1",
+    "username": "bitespeed_user_1",
+    "password":"ROOT@123",
+    "database": "bitespeed_user_1",
+    "host": "db4free.net",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "root",
-    "database": "bite_speed",
-    "host": "127.0.0.1",
+    "username": "bitespeed_user_1",
+    "password":"ROOT@123",
+    "database": "bitespeed_user_1",
+    "host": "db4free.net",
     "dialect": "mysql"
   }
 }
